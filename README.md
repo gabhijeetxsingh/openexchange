@@ -1,0 +1,1 @@
+# Openexchange template
